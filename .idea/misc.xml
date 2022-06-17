@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_add_vehicles.xml" value="0.25" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_login.xml" value="0.375" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_on_click_place.xml" value="0.2" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_user2.xml" value="0.165" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_user_profile.xml" value="0.45" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/activity_vehicle_info.xml" value="0.2" />
+        <entry key="..\:/Users/Ryder Wood/AndroidStudioProjects/CarpoolBuddy/app/src/main/res/layout/rec_view.xml" value="0.6141141141141141" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
